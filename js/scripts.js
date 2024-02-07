@@ -6,4 +6,6 @@ function saludar(){
 
 function despedir(){
     console.log("CHAO");
+    console.log("CHAO");
+    console.log("CHAO");
 }
