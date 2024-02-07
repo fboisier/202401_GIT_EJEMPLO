@@ -1,0 +1,10 @@
+1.- git init // inicializa el repositorio local en la carpeta ACTUAL. pwd
+2.- git add .  // subir todos cambios pendientes al stage
+3.- git commit -m "comentario"   // saca una foto a los archivos o cambios que están en el stage
+4.- git remote add origin "ruta repo github" // ir a github y crear nuevo repo.
+5.- git push -u origin main
+
+--- ACTUALIZAR ---
+1.- git add . 
+2.- git commit -m "comentario"
+3.- git push
