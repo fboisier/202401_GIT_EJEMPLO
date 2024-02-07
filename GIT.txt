@@ -8,3 +8,41 @@
 1.- git add . 
 2.- git commit -m "comentario"
 3.- git push
+
+
+
+----
+Comando    //   Explicación 
+
+pwd        //    Nos dice la carpeta actual donde estamos. 
+
+ls         //     Lista el contenido que tenemos dentro.
+ls -al     //     lista de manera ordenada y mas detallada.
+
+cd 	   //     entrar a una carpeta. 
+
+cd ..      //     entrar a la carpeta ANTERIOR. 
+
+cd xxx [presionar tecla TABULACIÓN] //   rellena con el restante del nombre de un archivo o carpeta.
+
+clear    //   limpia pantalla
+
+cat        //    muestra el contenido de un archivo. 
+
+history 	// comandos ejecutados anteriormente 
+
+git init  // crea un repositorio LOCAL en mi carpeta actual.
+
+git status  //  muestra el estado de como está mi repositorio. 
+
+git add <nombre archivo>  // sube el archivo o directorio al escenario (stage). 
+git add .  // sube todos los cambios al escenario
+git restore . //saca los archivos del escenario
+git add --all  // mismo que anterior
+git add -A // mismo que anterior
+
+git commit -m "Primer Commit - Comit inicial"  //  sacamos una foto al ESCENARIO.
+
+git log   // listado de commit (fotos) hechas en el repositorio
+
+
